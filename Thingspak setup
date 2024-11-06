@@ -1,1 +1,17 @@
 Go to thingspeak cloud platform 
+
+login with your credentials 
+
+then creat new channel
+
+then give channel name after that specifi field and save channel 
+
+then go to API key copy that API key and past it in your code 
+
+then go to private view then click on Add  visualization go to their setting then give its tital named "Gas level%"
+
+
+then save.
+
+
+And uplod the program and see its working 
